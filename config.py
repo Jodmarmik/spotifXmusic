@@ -89,7 +89,7 @@ autoclean = []
 confirmer = {}
 file_cache: dict[str, float] = {}
 
-START_IMG_URL = ["https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAELfFdo47_VCm_9cJwlh7gj5nwp6z7zPQACZA1rG8OxIVfmDuauwq4Z0gEAAwIAA3gAAzYE",
+START_IMG_URL = ["https://radare.arzfun.com/api/tg/photo?id=AgACAgEAAxkBAAELfGZo48gkD3wqdLlZ7XJvYXRJ_uGu9gACBgtrGxh5IEeXfE_ct3rrUwEAAwIAA3kAAzYE",
                  "https://te.legra.ph/file/c15d01b3e6b40ea141dc9.jpg",
                  "https://te.legra.ph/file/5fd13f2cc0d03bce9f7f2.jpg"]
     
