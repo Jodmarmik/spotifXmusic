@@ -84,6 +84,9 @@ Maintained by:  [Xbitcode](https://xbitcode.com/)
 This service is intended for personal and educational use.
 Users must follow YouTube’s Terms of Service and Telegram’s Bot Policy.
 
+<p align="center"## 𝖣𝖤𝖯𝖫𝖮𝖸 𝖳𝖮 𝖱𝖤𝖭𝖣𝖤𝖱
+
+[![DEPLOY TO RENDER](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Jodmarmik/PRIYANKABOT)
 
 ---
 
