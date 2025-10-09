@@ -22,4 +22,10 @@ services:
         sync: false
       - key: LOGGER_ID
         sync: false  
+      - key: API_ID
+        sync: false
+      - key: API_HASH
+        sync: false
+      - key: YT_API_KEY
+        sync: false
     autoDeploy: false
