@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "27575174",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "f210993a7836111440763fdda6ddf7c5",
         "required": true
       },
       "BOT_TOKEN": {
@@ -28,7 +28,7 @@
         "required": true
       },
       "MONGO_DB_URI": {
-        "description": "Get a mongodb url from https://cloud.mongodb.com.",
+        "description": "mongodb+srv://JODHUBHAI:JODHUBHAI@jodhubhai.ngcp0ki.mongodb.net/?retryWrites=true&w=majority&appName=JODHUBHAI",
         "value": "",
         "required": true
       },
@@ -39,12 +39,12 @@
       },
         "YT_API_KEY": {
         "description": "YT Proxy API KEY",
-        "value": "",
+        "value": "xbit_6BTMTURF8TAJ7FYHZT7KT6",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "1146450381",
         "required": true
       },
       "STRING_SESSION": {
@@ -64,7 +64,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1003171184110",
         "required": true
       }
     },
