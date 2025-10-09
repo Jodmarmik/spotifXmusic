@@ -28,8 +28,8 @@
         "required": true
       },
       "MONGO_DB_URI": {
-        "description": "mongodb+srv://JODHUBHAI:JODHUBHAI@jodhubhai.ngcp0ki.mongodb.net/?retryWrites=true&w=majority&appName=JODHUBHAI",
-        "value": "",
+        "description": "mongo",
+        "value": "mongodb+srv://JODHUBHAI:JODHUBHAI@jodhubhai.ngcp0ki.mongodb.net/?retryWrites=true&w=majority&appName=JODHUBHAI",
         "required": true
       },
       "YTPROXY_URL": {
