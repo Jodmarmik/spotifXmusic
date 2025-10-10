@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "mongo",
-        "value": "mongodb+srv://SHINUBHAI:SHINUBHAI@shinubhai.juazqyo.mongodb.net/?retryWrites=true&w=majority&appName=SHINUBHAI",
+        "value": "",
         "required": true
       },
       "YTPROXY_URL": {
@@ -39,7 +39,7 @@
       },
         "YT_API_KEY": {
         "description": "YT Proxy API KEY",
-        "value": "xbit_GX8MHORIO29D0H4XY31TN3",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
